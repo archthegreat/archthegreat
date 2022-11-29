@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @archthegreat
 - 👀 I’m interested in web development, Android development and working with Qt and Python.
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Python and front-end web developing.
+- 🌱 I'm also trying my best to come to terms with Git (the [*Progit*](https://git-scm.com/book/en/v2) book is just so hard with all the jargons)
 - 💞️ I’m looking to collaborate on nothing (for now).
 - 📫 How to reach me: [Telegram](https://cutt.ly/TC1pP23), [Twitter](https://cutt.ly/SC2koSg) & [Email](https://cutt.ly/5VbGWd9)
 - ⏰ What I'm doing: Building a website to use as my GitHub Page
